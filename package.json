@@ -15,6 +15,10 @@
     "strings",
     "regex"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:elliotberry/banana-slug.git"
+  },
   "author": "Elliot Berry",
   "license": "The Unlicense"
 }
